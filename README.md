@@ -1,12 +1,14 @@
 # kouhaku-namasu
 
-紅白なますのレシピ
+English / [日本語(Japansese)](README_ja.md)  
 
-## 手順
+The recipe of [kouhaku-namasu(紅白なます)](https://ja.wikipedia.org/wiki/膾#紅白なますの作り方).  
 
-- 人参を切る
-- 大根を切る
-- 人参と大根に塩をまぶす
-- 人参と大根の水気を切る
-- 砂糖、酢、白だしを測る
-- 大根と人参を液に漬ける
+## Workflow
+
+ - Cut carrots
+ - Cut radishes
+ - Sprinkle salt on carrots and radishes
+ - Drain the carrots and radishes
+ - Measure sugar, vinegar, and white broth
+ - Soak radishes and carrots in liquid
