@@ -7,8 +7,8 @@ The recipe of [kouhaku-namasu(紅白なます)](https://ja.wikipedia.org/wiki/�
 ## Workflow
 
  - Cut carrots
- - Cut the radish
+ - Cut radishes
  - Sprinkle salt on carrots and radishes
  - Drain the carrots and radishes
  - Measure sugar, vinegar, and white broth
- - Soak radish and carrot in liquid
+ - Soak radishes and carrots in liquid
