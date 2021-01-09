@@ -1,6 +1,6 @@
 # kouhaku-namasu
 
-English / [日本語(Japansese)](README_ja.md)  
+English / [日本語(Japanese)](README_ja.md)  
 
 The recipe of [kouhaku-namasu(紅白なます)](https://ja.wikipedia.org/wiki/膾#紅白なますの作り方).  
 
